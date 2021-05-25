@@ -1,2 +1,2 @@
-# estudos_go
+# Aprendendo Go
 Meus projetos pessoais em Go.
